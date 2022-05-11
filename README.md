@@ -31,7 +31,7 @@ install dependencies
 yarn install --cwd ~/metaplex/js/
 ~~~
 
-#### Using Solana
+#### Setting Solana
 
 install solana
 
@@ -57,6 +57,83 @@ setting url to `mainnet`
 https://api.mainnet-beta.solana.com
 ```
 
+#### Config
+
+create config file
+
+```bash
+touch ~/dev/config.json
+```
+
+configuration
+
+```json
+{
+    "price": 1.0,
+    "number": 10,
+    "gatekeeper": null,
+    "solTreasuryAccount": "<YOUR WALLET ADDRESS>",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "25 Dec 2021 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "arweave",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
+```
+
+#### Assets
+
+[sample assets](https://docs.metaplex.com/assets/files/assets-934a7281da49092b2a477733d067d8a0.zip)
+
+Setting metadata address
+
+```bash
+for json_file in ~/dev/assets/*.json;
+do
+  	address=$(solana address)
+  	sed -i '' "s/YOUR-SOLANA-WALLET-ADDRESS/$address/g" $json_file 
+done
+```
+
+#### Creating Candy Machine
+
+```bash
+ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload \
+    -e mainnet \
+    -k ~/.config/solana/mainnet.json \
+    -cp ~/dev/config.json \
+    -c example \
+    ~/dev/assets
+```
+
+veryify upload
+
+```bash
+ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload \
+ 	-e mainnet \
+ 	-k ~/.config/solana/mainnet.json \
+ 	-c example
+```
+
+#### Setting Website
+
+rename your file **.env.example** to **.env** at *~/metaplex/js/packages/candy-machine-ui*
+
+at *~/metaplex/js/packages/candy-machine-ui*
+
+run
+
+```bash
+yarn install
+yarn start
+```
 
 ## Flow
 
