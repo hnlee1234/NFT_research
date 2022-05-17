@@ -138,3 +138,16 @@ yarn start
 ## Flow
 
 ## Klaytn
+
+## NFT markets open source
+
+- [Crypto Boy NFT Marketplace](https://github.com/devpavan04/cryptoboys-nft-marketplace)
+- [Nft Gallery](https://github.com/kodadot/nft-gallery) 
+- [OpenStore](https://github.com/rgab1508/OpenStore)
+- [YessGlory17 Nft Marketplace](https://github.com/yessGlory17/nft-marketplace)
+- [OpenSea Mass Offer Bidding Bot](https://github.com/Zeeshanahmad4/OpenSea-mass-offer-bidding-bot)
+- [Minter Sdk](https://github.com/tqtezos/minter-sdk)
+- [Polygon NFT Marketplace](https://github.com/ikcoin/Polygon-NFT-marketplace)
+- [Festival Marketplace](https://github.com/ashleshsortee/festival-marketplace)
+- [Ervikassingh Nft Market](https://github.com/ervikassingh/nft-market)
+- [NFT Art Platform](https://github.com/WilliamTuominiemi/NFT-Art-Platform)
