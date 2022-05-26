@@ -137,7 +137,32 @@ yarn start
 
 ## Flow
 
+#### Setting up
+
+```bash
+brew install flow-cli
+```
+
+creating a directory
+
+```bash
+mkdir allcode-nft
+cd allcode-nft
+flow init
+mkdir cadence
+cd cadence
+mkdir contracts
+cd contracts
+
+```
+
 ## Klaytn
+
+## Avalanche
+
+## Cardano
+
+
 
 ## NFT markets open source
 
