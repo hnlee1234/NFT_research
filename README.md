@@ -284,6 +284,74 @@ flow project deploy
 
 ## Klaytn
 
+### **Deploying NFT Contracts with Truffle**
+
+#### Installing Truffle
+
+```bash
+npm install -g truffle@v5.1.61
+```
+
+#### Importing klaytn-contract
+
+```bash
+git clone https://github.com/klaytn/klaytn-contracts.git
+```
+
+#### *truffle-config.js* update
+
+```ACCESS_KEY``` and ```SECRET_KEY``` can be accessible through [here](https://docs.klaytnapi.com/getting-started/get-ready#getting-started-getready-key)
+
+```js
+// klaytn-contracts/truffle-config.js:29
+const accessKeyId = “ACCESS_KEY”;
+const secretAccessKey = “SECRET_KEY”;
+```
+
+#### klaytn-contracts dependency install
+
+at *klaytn-contracts* folder
+
+```bash
+npm install
+```
+
+#### Truffle distributing contract configuration
+
+change *2_contract_migration.js* file
+
+```js
+// migrations/2_contract_migration.js
+var kip17 = artifacts.require(‘KIP17Token’);
+
+module.exports = function(deployer) {
+	deployer.deploy(kip17, “Test NFT”, “TN”)
+};
+```
+
+#### Distributing at Baobab(Testnet)
+
+You need KLAY first by [creating account](https://baobab.wallet.klaytn.com/create) and [Baobab faucet](https://baobab.wallet.klaytn.com/access?next=faucet)
+
+at *truffle-config.js*
+
+```js
+// klaytn-contracts/truffle-config.js:40
+const privateKey = “0x123 …”;
+```
+
+#### Distribution
+
+```bash
+klaytn-contracts$ truffle deploy --network kasBaobab
+```
+
+
+
+#### Link for later reference
+
+https://medium.com/klaytn/five-ways-to-mint-nfts-on-klaytn-cd359c0ae2a0
+
 ## Avalanche
 
 ## Cardano
