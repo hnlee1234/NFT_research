@@ -370,3 +370,8 @@ https://medium.com/klaytn/five-ways-to-mint-nfts-on-klaytn-cd359c0ae2a0
 - [Festival Marketplace](https://github.com/ashleshsortee/festival-marketplace)
 - [Ervikassingh Nft Market](https://github.com/ervikassingh/nft-market)
 - [NFT Art Platform](https://github.com/WilliamTuominiemi/NFT-Art-Platform)
+
+
+
+## Raw Data Collection
+
