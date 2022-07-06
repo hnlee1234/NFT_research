@@ -1,0 +1,10 @@
+220706 수요일 교수님 미팅
+	- 방학 때 화, 목 미팅 및 출근 (학기 중 월, 목)
+	- daily에 매일 프로그레스 기록
+	- 매주 NFT 관련 논문 정하고 다음주 목요일 미팅 때 내용 보고
+	- 220706 ~ 220710 까지 daily 업데이트 및 NFT_research 업데이트
+		- mint cost over time api 또는 csv 모아서 Figure까지 데이터 수집
+	- https://arxiv.org/abs/2105.07447 220712 까지
+		- Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges
+
+220706 수요일 daily
