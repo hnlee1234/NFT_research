@@ -17,6 +17,9 @@
 
 Overview figure (market overview, consulting report)
 
+- https://nonfungible.com/market-tracker number of NFT total sales, top sales project
+- https://dappradar.com/nft top sales market places & collections
+
 ### 2.1. NFT terms
 
 Open market
@@ -55,6 +58,9 @@ Legal cases:
 
 Figure: Trade volume (daily?) over time. Ethereum, Solana, Flow, Klayton NFT (in coin and USD) vs. time
 
+- https://www.theblock.co/data/nft-non-fungible-tokens/nft-overview NFT trade volume
+  - https://cryptoslam.gitbook.io/docs/developers/cryptoslam-public-api api
+
 Figure: Floor value over time. 
 
 Table: same as above
@@ -88,6 +94,10 @@ Figure: Klayton mint cost over time
 Figure: Mint count over time. for all blockchains
 
 It is unpredictable and increasing.
+
+
+
+- https://cryptocurrencyalerting.com/rest-api.html mint cost alert api
 
 ### 3.3. Analysis
 

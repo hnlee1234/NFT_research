@@ -8,3 +8,7 @@
 		- Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges
 
 220706 수요일 daily
+	- market overview figure source 추가
+
+220707 목요일 daily
+	- mint/popularity trade volume over time of each blockchaine source & api 추가
