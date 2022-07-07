@@ -79,6 +79,8 @@ Define market commission
 
 Figure: Ethereum mint (gas+) cost over time
 
+- https://raribleanalytics.com/ ethereum all fees
+
 Table: same as above
 
  
