@@ -4,6 +4,9 @@
 		- mint cost over time api 또는 csv 모아서 Figure까지 데이터 수집
 		- https://arxiv.org/abs/2105.07447 파악 및 브리핑
 
+220708 금요일 daily
+	- Figure source 업데이트
+
 220707 목요일 daily
 	- mint/popularity trade volume over time of each blockchaine source & api 추가
 

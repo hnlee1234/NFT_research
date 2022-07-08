@@ -87,11 +87,18 @@ Table: same as above
 
 Figure: Solana mint cost over time
 
+- https://www.techdreams.org/crypto-currency/the-solana-gas-fee-trend/12713-20220206 solana gas fee trend (only graph)
+- https://solanabeach.io/supply solana gas fee track
+  - https://github.com/solana-beach/api track api
+
 Figure: Flow mint cost over time
+
+- https://docs.onflow.org/concepts/variable-transaction-fees/ fee structure
 
 Figure: Klayton mint cost over time
 
-
+- https://docs.klaytn.foundation/klaytn/design/transaction-fees transaction fee docs
+  - The unit price (also called `gas price`) is set in the system by the governance. It is currently set to 250 ston (*i.e.*, 250 x 10^9 peb) per gas and cannot be changed by user. The current value of the unit price can be obtained by calling the `klay.gasPrice` API
 
 Figure: Mint count over time. for all blockchains
 
