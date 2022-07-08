@@ -1,3 +1,10 @@
+*important*
+	- 8월 5일 딥러닝 워크샵
+	- 7월 11일 월요일 ~ 7월 15일 금요일 석박통합전환신청
+	- 7월 12일 화요일 오전 11시 30분 미팅
+		- mint cost over time api 또는 csv 모아서 Figure까지 데이터 수집
+		- https://arxiv.org/abs/2105.07447 파악 및 브리핑
+
 220707 목요일 daily
 	- mint/popularity trade volume over time of each blockchaine source & api 추가
 
