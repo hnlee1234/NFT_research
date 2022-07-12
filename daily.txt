@@ -1,8 +1,10 @@
 *important*
-	- 7월 11일 월요일 ~ 7월 15일 금요일 석박통합전환신청
-	- 7월 12일 화요일 오전 11시 30분 미팅
-		- mint cost over time api 또는 csv 모아서 Figure까지 데이터 수집
-		- https://arxiv.org/abs/2105.07447 파악 및 브리핑
+	- 20220714 목요일 점심 https://arxiv.org/abs/2105.07447 파악 및 브리핑
+
+220712 화요일 미팅
+	- Nonfungible 의 market report 드롭박스에 업로드
+	- csv, 데이터 등 모아두기
+	- 데이터 소스가 많이 인용되는 소스인지 확인
 
 220711 월요일 daily
 	- 차트 형태 정하기, Pandas 
@@ -24,3 +26,19 @@
 		- mint cost over time api 또는 csv 모아서 Figure까지 데이터 수집
 	- https://arxiv.org/abs/2105.07447 220712 까지
 		- Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges
+
+
+*https://raribleanalytics.com/
+etherscan
+https://solanafloor.com/realtime
+https://docs.etherscan.io/api-endpoints/gas-tracker#get-daily-average-gas-limit gas limit
+
+검토
+https://docs.opensea.io/reference/retrieving-collection-stats
+https://looksrare.github.io/api-docs/#/Collections/CollectionController.getCollectionStats
+
+
+
+pdf같은거 nonfungible market report 업로드
+csv 데이터 받을거 다 받아서 그래프
+

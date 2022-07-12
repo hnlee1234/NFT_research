@@ -352,6 +352,8 @@ klaytn-contracts$ truffle deploy --network kasBaobab
 
 https://medium.com/klaytn/five-ways-to-mint-nfts-on-klaytn-cd359c0ae2a0
 
+https://arxiv.org/abs/2105.07447
+
 ## Avalanche
 
 ## Cardano
