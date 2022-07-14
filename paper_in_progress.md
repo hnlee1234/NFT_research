@@ -108,6 +108,7 @@ It is unpredictable and increasing.
 
 - https://cryptocurrencyalerting.com/rest-api.html mint cost alert api
 - https://pandas-xlsxwriter-charts.readthedocs.io/chart_examples.html#axis-labels pandas examples
+- https://www.finder.com/nft-glossary terminology (referable?)
 
 ### 3.3. Analysis
 
