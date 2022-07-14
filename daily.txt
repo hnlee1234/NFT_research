@@ -1,8 +1,10 @@
 220714 Thursday meeting & daily
-	- 
+	- https://arxiv.org/abs/1905.04795 paper selection
+		- NFTracer: A Non-Fungible Token Tracking Proof-of-Concept Using Hyperledger Fabric
+		- 2019-Bal
 
 220713 Wednesday daily
-	- https://arxiv.org/abs/2105.07447 파악 및 브리핑
+	- https://arxiv.org/abs/2105.07447 파악 및 브리핑 ready
 
 220712 화요일 미팅
 	- Nonfungible 의 market report 드롭박스에 업로드
