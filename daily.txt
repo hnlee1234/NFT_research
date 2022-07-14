@@ -1,5 +1,8 @@
-*important*
-	- 20220714 목요일 점심 https://arxiv.org/abs/2105.07447 파악 및 브리핑
+220714 Thursday meeting & daily
+	- 
+
+220713 Wednesday daily
+	- https://arxiv.org/abs/2105.07447 파악 및 브리핑
 
 220712 화요일 미팅
 	- Nonfungible 의 market report 드롭박스에 업로드
