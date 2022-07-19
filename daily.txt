@@ -1,5 +1,6 @@
 220719 화요일 daily
 	- data 업로드
+		- Nonfungible의 마켓리포트는 안받아짐
 
 220714 Thursday meeting & daily
 	- https://arxiv.org/abs/1905.04795 paper selection
