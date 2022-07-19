@@ -1,3 +1,6 @@
+220719 화요일 daily
+	- data 업로드
+
 220714 Thursday meeting & daily
 	- https://arxiv.org/abs/1905.04795 paper selection
 		- NFTracer: A Non-Fungible Token Tracking Proof-of-Concept Using Hyperledger Fabric
