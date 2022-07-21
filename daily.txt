@@ -1,3 +1,6 @@
+220720 수요일 daily
+	- 2 line test code 업로드
+
 220719 화요일 daily
 	- data 업로드
 		- Nonfungible의 마켓리포트는 안받아짐
