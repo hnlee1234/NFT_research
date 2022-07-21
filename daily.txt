@@ -1,3 +1,9 @@
+220721 목요일 daily
+	- https://scholar.princeton.edu/sites/default/files/markus/files/blockchain_paper_v6g.pdf
+		- 2018-abadi-blockchain-economics
+	-  https://www.sciencedirect.com/science/article/pii/S0736585318306324
+		- 2018-casino
+
 220720 수요일 daily
 	- 2 line test code 업로드
 
@@ -49,8 +55,15 @@ https://docs.etherscan.io/api-endpoints/gas-tracker#get-daily-average-gas-limit 
 https://docs.opensea.io/reference/retrieving-collection-stats
 https://looksrare.github.io/api-docs/#/Collections/CollectionController.getCollectionStats
 
-
-
 pdf같은거 nonfungible market report 업로드
 csv 데이터 받을거 다 받아서 그래프
 
+title, x, y 축
+graph 최대한 많이
+
+conference links
+	- https://link.springer.com/conference/blockchain
+	- https://academicnftconference.com/web3-resources (nft conference)
+
+CFP medium
+	- https://easychair.org/cfp/ncraitc2022
