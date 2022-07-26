@@ -18,6 +18,13 @@
 Overview figure (market overview, consulting report)
 
 - https://nonfungible.com/market-tracker number of NFT total sales, top sales project
+  - ![primary_secondary_sales_date](./img/date_primary_seconadary.png)
+  - ![date_avergeUSD_activeWallet](./img/date_avergeUSD_activeWallet.png)
+  - ![date_sales_salesUSD](C:\Users\Haneul Lee\dev\NFT_research\img\date_sales_salesUSD.png)
+  - ![date_primaryUSD_sencondaryUSD](C:\Users\Haneul Lee\dev\NFT_research\img\date_primaryUSD_sencondaryUSD.png)
+  - ![date_uniquebuyer_uniqueseller](C:\Users\Haneul Lee\dev\NFT_research\img\date_uniquebuyer_uniqueseller.png)
+  - ![date_total](C:\Users\Haneul Lee\dev\NFT_research\img\date_total.png)
+
 - https://dappradar.com/nft top sales market places & collections
 
 ### 2.1. NFT terms
