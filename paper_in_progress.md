@@ -23,8 +23,11 @@ Overview figure (market overview, consulting report)
   - ![date_sales_salesUSD](./img/date_sales_salesUSD.png)
   - ![date_primaryUSD_sencondaryUSD](./img/date_primaryUSD_sencondaryUSD.png)
   - ![date_uniquebuyer_uniqueseller](./img/date_uniquebuyer_uniqueseller.png)
+  - 
+    ![date_sales_wallets](./img/date_sales_wallets.png)
+  - ![date_averageUSD_salesUSD](./img/date_averageUSD_salesUSD.png)
   - ![date_total](./img/date_total.png)
-
+  - 
 - https://dappradar.com/nft top sales market places & collections
 
 ### 2.1. NFT terms
