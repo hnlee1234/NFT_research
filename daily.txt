@@ -1,3 +1,6 @@
+220728 목요일 daily
+        - 논문 연구
+
 220727 수요일 daily
 	- date_averageUSD_salesUSD graph
 	- date_sales_wallets graph
