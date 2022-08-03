@@ -1,3 +1,9 @@
+220802 화요일 daily
+	- https://scholar.princeton.edu/sites/default/files/markus/files/blockchain_paper_v6g.pdf
+		- 2018-abadi-blockchain-economics
+	- https://www.sciencedirect.com/science/article/pii/S0736585318306324
+		- 2018-casino
+
 220801 월요일 daily
 	- bar_graph_json 작업 및 그래프 작성 코드 업로드
 
